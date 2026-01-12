@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Task } from '../types';
+import { Task } from '../../types';
 import { Plus, Trash2, Check, Circle, AlertCircle } from 'lucide-react';
 
 interface TaskProps {

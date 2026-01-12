@@ -1,5 +1,5 @@
 import React from 'react';
-import { WaterLog } from '../types';
+import { WaterLog } from '../../types';
 import { Plus, Minus, Droplets } from 'lucide-react';
 
 interface HydrationProps {

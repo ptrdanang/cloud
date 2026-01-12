@@ -1,5 +1,5 @@
 import React from 'react';
-import { PrayerTime } from '../types';
+import { PrayerTime } from '../../types';
 import { Moon, Sun, Sunrise, Sunset, MapPin } from 'lucide-react';
 
 interface PrayerProps {

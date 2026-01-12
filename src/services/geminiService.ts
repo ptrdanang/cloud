@@ -1,5 +1,5 @@
 import { GoogleGenAI } from "@google/genai";
-import { Task, WaterLog, UserProfile, SleepConfig, FitnessState } from "../types";
+import { Task, WaterLog, UserProfile, SleepConfig, FitnessState } from "../../types";
 
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
